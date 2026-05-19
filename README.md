@@ -16,3 +16,7 @@ If the ElvUI version doesn't work, download the ElvUI_Profile converter in elvui
 ## [Cursor](https://wago.io/nieBf-4ZX)
 
 [WOTLK](https://wago.io/nieBf-4ZX), not as many features tho
+
+
+## rogue WAs
+[poison tracking[(https://wago.io/H-mvHtkvz)
