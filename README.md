@@ -19,4 +19,4 @@ If the ElvUI version doesn't work, download the ElvUI_Profile converter in elvui
 
 
 ## rogue WAs
-[poison tracking[(https://wago.io/H-mvHtkvz)
+[poison tracking](https://wago.io/H-mvHtkvz)
