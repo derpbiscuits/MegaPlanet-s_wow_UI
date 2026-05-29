@@ -24,3 +24,5 @@ If the ElvUI version doesn't work, download the ElvUI_Profile converter in elvui
 
 
 [deadly poison target tracking](https://wago.io/iXV_S4-86)
+
+[updated zygor's guides](https://github.com/ErebusAres/ZygorGuidesRemaster-3.3.5a_WOTLK)
