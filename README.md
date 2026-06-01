@@ -13,7 +13,7 @@ If the ElvUI version doesn't work, download the ElvUI_Profile converter in elvui
 
 ## [Handynotes](https://www.reddit.com/r/classicwow/comments/cyyouq/handynotes_show_innkeepers_flightmasters_trainers/)
 
-## [Cursor](https://wago.io/nieBf-4ZX)
+## [Cursor](https://wago.io/ZbjlsgMkp)
 
 [WOTLK](https://wago.io/nieBf-4ZX), not as many features tho
 
